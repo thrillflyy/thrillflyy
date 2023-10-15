@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thrillflyy
 - 👀 I’m interested in developing new coding skills.
-- 🌱 I’m currently learning c language but having a hard time understanding the logics.
-- 💞️ I’m looking to collaborate on some rookie based projects so that i can understand more about coding.
+- 🌱 I’m currently learning c,c++ and java .
+- 💞️ I’m looking to collaborate on projects so that i can understand more about coding.
 - 📫 you can reach me on mail at callocmalloc01@gmail.com.
 
 <!---
